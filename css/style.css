@@ -1,0 +1,35 @@
+body {
+  background-color: purple;
+}
+
+div {
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 22px;
+  text-align: center
+}
+
+table {
+  width: 20%;
+  margin: 0 auto;
+  background-color: lime;
+}
+
+
+
+input {
+  width: 260px;
+  height: 50px;
+  font-size:30px
+} 
+
+button {
+  width: 62px;
+  height: 62px;
+  background-color: blue;
+  font-size: 20px;
+}
+
+
